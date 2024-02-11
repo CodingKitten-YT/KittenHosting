@@ -144,7 +144,7 @@ app.get("/*", (req, res) => {
                 },
                 data,
                 () => {
-                    if (config.imageurl !== "IMAGE_URL") {
+                    if (config.imageurl) {
                         https.get(config.imageurl, (response) => {
                             if (response.statusCode === 200) {
                                 res.setHeader("Content-Type", "image/png");
