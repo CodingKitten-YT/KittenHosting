@@ -8,12 +8,6 @@ Where **you** can trick your Target into clicking a link for **their** ip.
 
 Logger++ is made possible using [**Vercel**](https://vercel.com/), [**Express.JS**](https://expressjs.com/), [**Github**](https://github.com), [**Node.JS**](https://nodejs.org/), & [**Discord**](https://discord.com/).
 
-> [!NOTE]
-> *Logger++ has moved to node.js if you want the **old** python version* [***CLICK HERE***](https://github.com/Cartxrr/LoggerPlusPlus/tree/ae64c61185f1f18c170ba9fec5d592e2006c26db).
-
-> [!WARNING]
-> **VERCELS SCREEN SHOT BOT LIKES TO SPAM THE WEBHOOK FOR SOMEREASON WHEN YOU CLICK ON THE VERCEL PROJECT SORRY!**
-
 <hr>
 
 ## 📜 Wiki/Documentation
@@ -22,9 +16,14 @@ Logger++ is made possible using [**Vercel**](https://vercel.com/), [**Express.JS
 - [**Settings**](https://github.com/Cartxrr/LoggerPlusPlus/wiki/Settings)
 - [**Hosting**](https://github.com/Cartxrr/LoggerPlusPlus/wiki/Hosting)
 
-## ℹ Info
+<hr>
 
-I do not condone using this as it breaks Discord's TOS.
+## ℹ Info
+> [!NOTE]
+> **Logger++ has moved to [**Node.JS**](https://nodejs.org/) if you want the *old* python version** [***CLICK HERE***](https://github.com/Cartxrr/LoggerPlusPlus/tree/ae64c61185f1f18c170ba9fec5d592e2006c26db). <br>
+
+> [!WARNING]
+> Please note that Logger++ is in violation of Discord's Terms of Service. I cannot be held responsible for any consequences that may arise from its use on your account.
 
 **Please consider giving this repo a star 🌟**
 
