@@ -23,7 +23,7 @@ Logger++ is made possible using [**Vercel**](https://vercel.com/), [**Express.JS
 > **Logger++ has moved to [**Node.JS**](https://nodejs.org/) if you want the *old* python version** [***CLICK HERE***](https://github.com/Cartxrr/LoggerPlusPlus/tree/ae64c61185f1f18c170ba9fec5d592e2006c26db). <br>
 
 > [!WARNING]
-> Please note that Logger++ is in violation of Discord's Terms of Service. I cannot be held responsible for any consequences that may arise from its use on your account.
+> Please note that Logger++ is in violation of [**Discord's Terms of Service**](https://discord.com/terms). I cannot be held responsible for any consequences that may arise from its use on your account.
 
 **Please consider giving this repo a star 🌟**
 
