@@ -1,5 +1,6 @@
 {
     "webhookurl": "WEBHOOK_URL",
     "imageurl": "IMAGE_URL",
-    "corruptedimage": false
+    "corruptedimage": false,
+    "port": 3000
 }
