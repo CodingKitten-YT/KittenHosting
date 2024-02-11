@@ -1,0 +1,22 @@
+{
+  "name": "loggerplusplus",
+  "version": "2.0.0",
+  "description": "A Powerful Node.JS Discord Logger Tool.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cartxrr",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cartxrr/LoggerPlusPlus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cartxrr/LoggerPlusPlus/issues"
+  },
+  "homepage": "https://github.com/Cartxrr/LoggerPlusPlus#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
