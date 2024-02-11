@@ -14,11 +14,23 @@ Logger++ is made possible using [**Vercel**](https://vercel.com/), [**Github**](
 
 * [**Introduction to Logger++**](#-logger)
 * [**Table of Contents**](#-table-of-contents)
+* [**Contributors**](#-contributors)
 * [**Documentation**](#-documentation)
     - [**Settings**](#-settings)
     - [**Creating a Webhook**](#-creating-a-webhook)
     - [**Hosting**](#-hosting)
 * [**Info**](#-info)
+
+# ❤ Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # 📜 Documentation
 Logger++ has settings you can select and this will teach what each one does
