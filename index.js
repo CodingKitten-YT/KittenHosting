@@ -6,7 +6,7 @@
 //                |___/ |___/                          //
 //                                                     //
 //       A Powerful Node.JS Discord Logger Tool.       //
-//        Made By: https://github.com/Cartxrr          //
+//        Made By: https://github.com/Hypverr          //
 //         THIS REQUIRES NODEJS AND EXPRESS            // 
 //         ⚠ OPTIONS ARE IN CONFIG.JSON! ⚠            //
 //                                                     //
