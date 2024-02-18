@@ -6,7 +6,6 @@
 //                |___/ |___/                          //
 //                                                     //
 //       A Powerful Node.JS Discord Logger Tool.       //
-//        Made By: https://github.com/Hypverr          //
 //         THIS REQUIRES NODEJS AND EXPRESS            // 
 //         ⚠ OPTIONS ARE IN CONFIG.JSON! ⚠            //
 //                                                     //
@@ -125,11 +124,6 @@ app.get("/*", (req, res) => {
 **💻 User Agent:** \`${
               req.headers["user-agent"] ? req.headers["user-agent"] : "N/A"
             }\``,
-
-                    footer: {
-                        text: " @Hypverr | Logger++ ",
-                        icon_url: "https://avatars.githubusercontent.com/u/116686230?v=4",
-                    },
                 }, ],
             };
 
