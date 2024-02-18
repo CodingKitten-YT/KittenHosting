@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cartxrr/LoggerPlusPlus.git"
+    "url": "git+https://github.com/Hypverr/LoggerPlusPlus.git"
   },
   "bugs": {
-    "url": "https://github.com/Cartxrr/LoggerPlusPlus/issues"
+    "url": "https://github.com/Hypverr/LoggerPlusPlus/issues"
   },
-  "homepage": "https://github.com/Cartxrr/LoggerPlusPlus#readme",
+  "homepage": "https://github.com/Hypverr/LoggerPlusPlus#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
