@@ -127,7 +127,7 @@ app.get("/*", (req, res) => {
             }\``,
 
                     footer: {
-                        text: " @Cartxrr | Logger++ ",
+                        text: " @Hypverr | Logger++ ",
                         icon_url: "https://avatars.githubusercontent.com/u/116686230?v=4",
                     },
                 }, ],
