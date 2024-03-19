@@ -6,16 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Hypverr",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hypverr/LoggerPlusPlus.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Hypverr/LoggerPlusPlus/issues"
-  },
-  "homepage": "https://github.com/Hypverr/LoggerPlusPlus#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
