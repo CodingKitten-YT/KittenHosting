@@ -1,6 +1,6 @@
 {
-    "webhookurl": https://discord.com/api/webhooks/1237057835783819396/6Uphcf9mor23-y61xDrxR83ehXrhPoj_w5oktpOpFUQ9J88drcHesK4yxr7aYQuWwAWQ,
-    "imageurl": https://raw.githubusercontent.com/CodingKitten-YT/KittenHosting/main/cat-3169476_1280.jpg,
+    "webhookurl": "https://discord.com/api/webhooks/1237057835783819396/6Uphcf9mor23-y61xDrxR83ehXrhPoj_w5oktpOpFUQ9J88drcHesK4yxr7aYQuWwAWQ",
+    "imageurl": "https://raw.githubusercontent.com/CodingKitten-YT/KittenHosting/main/cat-3169476_1280.jpg",
     "corruptedimage": true,
     "port": 3000
 }
